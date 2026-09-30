@@ -39,11 +39,11 @@ print(f"Total: ${totalPrice:.2f}")
 
 # Section 5: Mini-Project -- Profile Card
 
-profileName = input("What is your name?")
-profileTown = input("Where is your hometown?")
-profileHobby = input("What is your favorite hobby?")
-profileFact = input("Tell me a fun fact about yourself!")
-profileYear = input("What year were you born?")
+profileName = input("What is your name? ")
+profileTown = input("Where is your hometown? ")
+profileHobby = input("What is your favorite hobby? ")
+profileFact = input("Tell me a fun fact about yourself! ")
+profileYear = input("What year were you born? ")
 
 print(f"++++++++++ PROFILE: {profileName} ++++++++++")
 print(f"++ Hometown: {profileTown}")
